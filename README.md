@@ -200,14 +200,6 @@ Future enhancements under consideration include:
 
 This tool contributes to improved reproducibility and validation in scientific computing by providing accessible, detailed statistical comparison capabilities for NumPy datasets.
 
-## References
-
-1. Oliphant, T. E. (2006). A guide to NumPy. Trelgol Publishing.
-2. Hunter, J. D. (2007). Matplotlib: A 2D graphics environment. Computing in Science & Engineering, 9(3), 90-95.
-3. Virtanen, P., Gommers, R., Oliphant, T. E., et al. (2020). SciPy 1.0: Fundamental Algorithms for Scientific Computing in Python. Nature Methods, 17, 261-272.
-4. Hellmann, D. (2014). The Python Standard Library by Example. Addison-Wesley Professional.
-5. VanderPlas, J. (2016). Python Data Science Handbook: Essential Tools for Working with Data. O'Reilly Media, Inc.
-
 ---
 
 *This research did not receive any specific grant from funding agencies in the public, commercial, or not-for-profit sectors.*
